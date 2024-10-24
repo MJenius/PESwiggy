@@ -1,0 +1,19 @@
+/* Cart page styles */
+.cart {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .cart h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .cart p {
+    margin-bottom: 1rem;
+  }
+  
+  .cart button {
+    padding: 1rem 2rem;
+    border-radius: 5px;
+  }
+  

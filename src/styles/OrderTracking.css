@@ -1,0 +1,19 @@
+/* Order tracking page styles */
+.order-tracking {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .order-tracking h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .order-tracking p {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .order-tracking p:nth-child(3) {
+    font-weight: bold;
+  }
+  

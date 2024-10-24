@@ -1,0 +1,42 @@
+/* SignIn page styles */
+.signin {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .signin form {
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .signin label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .signin input {
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .signin button {
+    width: 100%;
+  }
+  
+  .signin a {
+    display: inline-block;
+    margin-top: 1rem;
+    text-decoration: none;
+    color: #fc8019;
+  }
+  
+  .signin a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,56 @@
+/* Home page styles */
+.home {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .hero {
+    background-color: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .shops {
+    margin-top: 2rem;
+  }
+  
+  .shop-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .shop {
+    background-color: #263e79;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  .actions {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .action-btn {
+    background-color: #263e79;
+    color: white;
+    padding: 0.8rem 2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 1rem;
+    display: inline-block;
+  }
+  
+  .action-btn:hover {
+    background-color: #fc8019;
+  }
+  
