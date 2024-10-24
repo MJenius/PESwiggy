@@ -12,6 +12,9 @@ function Navbar() {
         <li><Link to="/signup">Sign Up</Link></li>
         <li><Link to="/cart">Cart</Link></li>
         <li><Link to="/track-order">Track Order</Link></li>
+        <li><Link to="/Delivery">Delivery</Link></li>
+        <li><Link to="/Printout">Printout</Link></li>
+
       </ul>
     </nav>
   );
