@@ -32,10 +32,10 @@
   border-radius: 10px; /* Ensures oval shape */
   line-height: 1.5; /* Ensures consistent height */
   white-space: nowrap; /* Prevents text wrap */
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3); /* Adding text shadow */
 }
 
 .navbar ul li a:hover {
   text-decoration: underline;
-  background-color: #fc8019
-  ;
+  background-color: #fc8019;
 }
