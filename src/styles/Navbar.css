@@ -1,6 +1,5 @@
 /* Navbar styles */
 .navbar {
-  background-color: #fc8019;
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -8,8 +7,9 @@
 }
 
 .navbar h1 {
-  color: white;
+  color:black ;
   margin-left: 2rem;
+  padding: 0.5rem 1rem;
 }
 
 .navbar ul {
@@ -27,6 +27,11 @@
   color: white;
   text-decoration: none;
   font-size: 1rem;
+  background-color: #263e79;
+  padding: 0.5em 1em;
+  border-radius: 10px; /* Ensures oval shape */
+  line-height: 1.5; /* Ensures consistent height */
+  white-space: nowrap; /* Prevents text wrap */
 }
 
 .navbar ul li a:hover {
