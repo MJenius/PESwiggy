@@ -7,13 +7,10 @@ function Navbar() {
     <nav className="navbar">
       <h1>PESwiggy</h1>
       <ul>
-        <li><Link to="/">Home</Link></li>
         <li><Link to="/signin">Sign In</Link></li>
-        <li><Link to="/signup">Sign Up</Link></li>
         <li><Link to="/cart">Cart</Link></li>
         <li><Link to="/track-order">Track Order</Link></li>
-        <li><Link to="/Delivery">Delivery</Link></li>
-        <li><Link to="/Printout">Printout</Link></li>
+        <li><Link to="/Delivery">Deliver</Link></li>
 
       </ul>
     </nav>
